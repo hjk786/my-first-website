@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blue肥子改枪码大全</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+            color: #007bff;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #0056b3;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+        }
+        .category {
+            margin-bottom: 40px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .reminder {
+            background-color: #e9ecef;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+        }
+        .gun {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .gun h3 {
+            margin: 0 0 10px 0;
+            color: #343a40;
+        }
+        .gun .code-section {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .gun .code {
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        .gun button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .gun button:hover {
+            background-color: #0056b3;
+        }
+        .anti-fake {
+            text-align: center;
+            font-weight: bold;
+            color: red;
+            margin-bottom: 20px;
+            font-size: 1.2em;
+        }
+        nav {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        nav a {
+            margin: 0 10px;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        nav a:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Blue肥子改枪码大全</h1>
+    <div class="anti-fake">Blue肥子防伪标识</div>
+
+    <nav>
+        <a href="#buqiang">步枪</a>
+        <a href="#chongfengqiang">冲锋枪</a>
+        <a href="#lianjian">连狙</a>
+        <a href="#jujiqiang">狙击枪</a>
+        <a href="#jiqiang">机枪</a>
+        <a href="#xiandanqiang">霰弹枪</a>
+    </nav>
+
+    <div class="category" id="buqiang">
+        <h2>步枪</h2>
+        <div class="reminder">
+            提醒：不同干员使用枪械不一样<br>
+            两个模式都能用，由于大战场全是满配枪，所以摸金较贵~<br>
+            有些武器并不适合一些距离比如有些步枪射速极高，远距离抖动过大只适合近距离【AS Val】<br>
+            近距离【0-30米】    中距离【30-120米】    远距离【120-200米】<br>
+            【高/快/强  ＞  中  ＞  低/弱/差】
+        </div>
+        <div class="gun">
+            <h3>KC17突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAUKGK0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAUKGK0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中】【中距离强】【远距离中】          【开镜速度快】                 【稳定性强】     【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>K437突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAULPC0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAULPC0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离弱】  【中距离强】【远距离强】          【开镜速度中】                【稳定性强】</p>
+        </div>
+        <div class="gun">
+            <h3>K437突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAUN080CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAUN080CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中】  【中距离强】【远距离中高】       【开镜速度快】                【稳定性强】    【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>K437突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAUMA00CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAUMA00CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】  【中距离中】【远距离超弱】       【开镜速度极快】             【稳定性低】</p>
+        </div>
+        <div class="gun">
+            <h3>腾龙突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAUOFC0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAUOFC0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】   【中距离强】【远距离弱】          【开镜速度中高】             【稳定性中】</p>
+        </div>
+        <div class="gun">
+            <h3>腾龙突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAUPG80CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAUPG80CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离超弱】【中距离强】【远距离强】          【开镜速度中低】             【稳定性强】   【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>AS Val突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAUSG00CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAUSG00CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离超强】【中距离强】【远距离弱】          【开镜速度快】                【稳定性中】    【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>CAR-15突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAUTKS0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAUTKS0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>【这把枪全干员通用！前期必升枪】【超好用的过度枪】【用于武器升级卷不够的前期玩家选择】       【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>PTR-32突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAUVH00CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAUVH00CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中】【中距离强】【远距离中】          【开镜速度中】                    【稳定性中】   </p>
+        </div>
+        <div class="gun">
+            <h3>PTR-32突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAV0L40CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAV0L40CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离弱】【中距离强】【远距离中】          【开镜速度中低】                  【弹道偏右上】</p>
+        </div>
+        <div class="gun">
+            <h3>G3战斗步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAV1AS0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAV1AS0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离弱】【中距离中】【远距离弱】          【开镜速度中低】                   【稳定性低】</p>
+        </div>
+        <div class="gun">
+            <h3>G3战斗步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAV2600CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAV2600CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离弱】【中距离中】【远距离中】          【开镜速度中低】                   【稳定性中】</p>
+        </div>
+        <div class="gun">
+            <h3>SCAR-H战斗步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAV3A00CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAV3A00CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中】  【中距离强】【远距离中高】       【开镜速度中低】                【稳定性中高】    </p>
+        </div>
+        <div class="gun">
+            <h3>SCAR-H战斗步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAV3IG0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAV3IG0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中高】【中距离强】【远距离中】          【开镜速度中】                  【稳定性中高】     【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>AK-12突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAV47O0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAV47O0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中高】【中距离强】【远距离中】          【开镜速度快】                  【稳定性中高】     【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>AK-12突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAV53G0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAV53G0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中高】【中距离强】【远距离中】          【开镜速度中低】               【稳定性中高】     </p>
+        </div>
+        <div class="gun">
+            <h3>SG552突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAV5Q80CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAV5Q80CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】    【中距离强】【远距离中高】      【开镜速度超级快】             【稳定性中超高】 【超推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>M7战斗步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAV8EG0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAV8EG0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】    【中距离强】【远距离中低】      【开镜速度快】                    【稳定性中】       【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>M7战斗步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAV7Q80CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAV7Q80CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中】    【中距离强】【远距离中】         【开镜速度中】                    【稳定性中高】    【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>AUG突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVAJ80CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVAJ80CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>【远距离架点武器，步枪系类最强稳定性200米配合脚架无后座！但开镜极慢适合远距离架点】【架点推荐机枪PKM】</p>
+        </div>
+        <div class="gun">
+            <h3>AUG突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAV8RG0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAV8RG0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中】    【中距离强】【远距离强】      【开镜速度中高】                    【稳定性超强】     【推荐】<br>【AUG这把枪比较特殊，枪口可以更换为：薪火螺旋/沙暴垂直/堡垒水平/死寂消音】</p>
+        </div>
+        <div class="gun">
+            <h3>M16A4突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVBJ80CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVBJ80CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>【主腰射副瞄准】【用于完成全武器皮肤收集使用】【按B可以切换为三连发】</p>
+        </div>
+        <div class="gun">
+            <h3>M16A4突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVCKG0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVCKG0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>【当步枪使用的】【不推荐使用】【按B可以切换为三连发】</p>
+        </div>
+        <div class="gun">
+            <h3>K416突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVEB80CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVEB80CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】    【中距离强】【远距离中低】        【开镜速度中高】                    【稳定性高】       【推荐】<br>【距离衰减太严重，不适合打远距离】</p>
+        </div>
+        <div class="gun">
+            <h3>ASh-12战斗步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVFOK0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVFOK0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】    【中距离弱】 【远距离差】           【开镜速度中】                    【稳定性中超低】    【不推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>AKS-74U突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVGLG0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVGLG0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中低】    【中距离中】【远距离中低】      【开镜速度快】                    【稳定性高】        【不是很推荐】<br>【这把枪摸金高配很便宜】</p>
+        </div>
+        <div class="gun">
+            <h3>QBZ95-1突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVHK40CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVHK40CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中高】    【中距离中】    【远距离中】      【开镜速度中高】                 【稳定性中】</p>
+        </div>
+        <div class="gun">
+            <h3>QBZ95-1突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVI2O0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVI2O0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离弱】       【中距离中高】 【远距离中】      【开镜速度中】                    【稳定性中高】</p>
+        </div>
+        <div class="gun">
+            <h3>AKM突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVKSC0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVKSC0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】    【中距离强】 【远距离中】        【开镜速度快】                       【稳定性中】          【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>AKM突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVKRC0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVKRC0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离弱】    【中距离强】【远距离中高】      【开镜速度中低】                    【稳定性中高】       </p>
+        </div>
+        <div class="gun">
+            <h3>M4A1突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVO7G0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVO7G0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】    【中距离强】 【远距离强】        【开镜速度中高】                     【稳定性超高】          【超级推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>M4A1突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVOBS0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVOBS0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】    【中距离强】 【远距离中】        【开镜速度快】                        【稳定性高】             【超级推荐】</p>
+        </div>
+    </div>
+
+    <div class="category" id="chongfengqiang">
+        <h2>冲锋枪</h2>
+        <div class="reminder">
+            Blue肥子桑的冲锋枪改枪码捏~~<br>
+            提醒：不同干员使用枪械不一样<br>
+            两个模式都能用，由于大战场全是满配枪，所以摸金较贵~<br>
+            有些武器并不适合一些距离比如有些步枪射速极高，远距离抖动过大只适合近距离【AS Val】<br>
+            近距离【0-30米】    中距离【30-120米】    远距离【120-200米】<br>
+            【高/快/强  ＞  中  ＞  低/弱/差】
+        </div>
+        <div class="gun">
+            <h3>QCQ171冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVQFO0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVQFO0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离超强】【中距离强】【远距离弱】            【开镜速度快】                 【稳定性中】          【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>QCQ171冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVQL80CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVQL80CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离超强】【中距离强】【远距离弱】            【开镜速度快】                 【稳定性中】          【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>MP7冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVR5C0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVR5C0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离超强】【中距离强】【远距离弱】            【开镜速度快】                 【稳定性强】          【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>MP7冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVRLO0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVRLO0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离超强】【中距离中高】【远距离弱】          【开镜速度快】               【腰射枪】              【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>勇士冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVTD80CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVTD80CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离超强】【中距离强】【远距离中】            【开镜速度快】                 【稳定性强】          </p>
+        </div>
+        <div class="gun">
+            <h3>SR-3M紧凑突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVTV00CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVTV00CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离超强】【中距离强】 【远距离中】            【开镜速度超级快】           【腰射、瞄准都可以用】    【比较推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>SR-3M紧凑突击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVUL00CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVUL00CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】   【中距离强】 【远距离弱】            【开镜速度快】                 【稳定性强】</p>
+        </div>
+        <div class="gun">
+            <h3>SMG-45冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVV5C0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVV5C0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】   【中距离中】 【远距离弱】              【开镜速度快】           【腰射、瞄准都可以用】    </p>
+        </div>
+        <div class="gun">
+            <h3>SMG-45冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HAVVES0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HAVVES0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】   【中距离强】 【远距离中】             【开镜速度快】                 【稳定性中】</p>
+        </div>
+        <div class="gun">
+            <h3>野牛冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB00AC0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB00AC0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中】   【中距离中】  【远距离弱】             【开镜速度快】                 【稳定性中高】</p>
+        </div>
+        <div class="gun">
+            <h3>UZI冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB00MO0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB00MO0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中】   【中距离中低】【远距离弱】             【开镜速度快】                【开镜移速超高】</p>
+        </div>
+        <div class="gun">
+            <h3>Vector冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB01800CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB01800CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】   【中距离中低】 【远距离差】               【开镜速度快】                 【可以腰射、瞄准也不差】</p>
+        </div>
+        <div class="gun">
+            <h3>Vector冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB01O80CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB01O80CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】   【中距离中】    【远距离中低】            【开镜速度快】                 【稳定性中低】</p>
+        </div>
+        <div class="gun">
+            <h3>Vector冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB02680CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB02680CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>【超绝爆闪热成像瞄准中距离/近距离太阳神】                                                                   【整活，不推荐正常玩】</p>
+        </div>
+        <div class="gun">
+            <h3>Vector冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB02OC0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB02OC0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>【近距离超绝太阳神】【据抢较低，打敌人的脚敌人打到我们后枪会自己跳到敌人头上】        【整活，不推荐正常玩】</p>
+        </div>
+        <div class="gun">
+            <h3>P90冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB03CC0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB03CC0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中低】   【中距离强】  【远距离强】            【开镜速度中】                    【冲锋枪最强稳定】</p>
+        </div>
+        <div class="gun">
+            <h3>P90冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB03V40CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB03V40CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中低】   【中距离很强】  【远距离强】          【开镜速度中低】                 【冲锋枪最强稳定】</p>
+        </div>
+        <div class="gun">
+            <h3>MP5冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB048C0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB048C0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离超绝】   【中距离中高】 【远距离较弱】         【开镜速度快】                 【可以腰射、瞄准也不差】</p>
+        </div>
+        <div class="gun">
+            <h3>MP5冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB05IK0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB05IK0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中高】   【中距离强】  【远距离中高】            【开镜速度中】                   【稳定性中高】</p>
+        </div>
+        <div class="gun">
+            <h3>MP5冲锋枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB05L00CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB05L00CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中高】   【中距离强】  【远距离中高】            【开镜速度中】                   【稳定性中高】</p>
+        </div>
+    </div>
+
+    <div class="category" id="lianjian">
+        <h2>连狙</h2>
+        <div class="reminder">
+            Blue肥子桑的连狙改枪码捏捏~~<br>
+            提醒：不同干员使用枪械不一样<br>
+            两个模式都能用，由于大战场全是满配枪，所以摸金较贵~<br>
+            有些武器并不适合一些距离比如有些步枪射速极高，远距离抖动过大只适合近距离【AS Val】<br>
+            近距离【0-30米】    中距离【30-120米】    远距离【120-200米】<br>
+            【高/快/强  ＞  中  ＞  低/弱/差】
+        </div>
+        <div class="gun">
+            <h3>PSG-1射手步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB387G0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB387G0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度：高          射速：中         【连续开火稳定性强】          【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>SR9射手步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB39680CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB39680CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度：中低       射速：中低      【连续开火稳定性弱】          【前三发稳定不错，三发后开始乱跳】</p>
+        </div>
+        <div class="gun">
+            <h3>SR-25射手步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3AE80CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3AE80CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度：高            射速：中       【连续开火稳定性强】          【推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>SKS射手步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3BGO0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3BGO0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度：高            射速：高       【连续开火稳定性中低】          </p>
+        </div>
+        <div class="gun">
+            <h3>SKS射手步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3C840CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3C840CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>【手速快当步枪耍的娱乐改枪码】</p>
+        </div>
+        <div class="gun">
+            <h3>M14射手步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3ERK0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3ERK0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度中低     射速：超高         【连续开火稳定性中低】          【全自动步枪/冲锋枪】</p>
+        </div>
+        <div class="gun">
+            <h3>M14射手步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3DDK0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3DDK0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度低        射速：超高         【连续开火稳定性中低】         【全自动步枪/冲锋枪】</p>
+        </div>
+        <div class="gun">
+            <h3>M14射手步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3EC40CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3EC40CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>【害羞枪】</p>
+        </div>
+        <div class="gun">
+            <h3>SVD狙击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3F6S0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3F6S0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度高        射速：低              【连续开火稳定性高】           【射速太慢】</p>
+        </div>
+        <div class="gun">
+            <h3>VSS射手步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3FRO0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3FRO0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度中低     射速：高              【连续开火稳定性中】           【全自动步枪】</p>
+        </div>
+        <div class="gun">
+            <h3>VSS射手步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3G5K0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3G5K0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度中高     射速：高              【连续开火稳定性高】           【架点别开全自动，手点会好很多】</p>
+        </div>
+        <div class="gun">
+            <h3>Mini-14射手步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6H5G12S0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6H5G12S0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度中高     射速：高              【连续开火稳定性高】           【比较推荐】</p>
+        </div>
+    </div>
+
+    <div class="category" id="jujiqiang">
+        <h2>狙击枪</h2>
+        <div class="reminder">
+            Blue肥子桑的连狙改枪码捏捏~~<br>
+            提醒：不同干员使用枪械不一样<br>
+            两个模式都能用，由于大战场全是满配枪，所以摸金较贵~<br>
+            有些武器并不适合一些距离比如有些步枪射速极高，远距离抖动过大只适合近距离【AS Val】<br>
+            近距离【0-30米】    中距离【30-120米】    远距离【120-200米】<br>
+            【高/快/强  ＞  中  ＞  低/弱/差】
+        </div>
+        <div class="gun">
+            <h3>AWM狙击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6H5G0M00CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6H5G0M00CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>特点：【距离再远伤害也不会低于50】【手感较重】【武器弹夹只有五发弹药】</p>
+        </div>
+        <div class="gun">
+            <h3>AWM狙击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3HFS0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3HFS0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>【机瞄整活枪】</p>
+        </div>
+        <div class="gun">
+            <h3>M700狙击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3HSK0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3HSK0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>特点：【距离超过88米打到手脚伤害低于50】【手感很轻】【弹夹子弹数较多】【操控速度高开镜快】</p>
+        </div>
+        <div class="gun">
+            <h3>R93狙击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3JLG0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3JLG0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>特点：【距离再远伤害不会低于50】【手感很轻】【操控速度高开镜很快】【弹夹子弹很多】               【强烈推荐】</p>
+        </div>
+        <div class="gun">
+            <h3>SV-98狙击步枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3K6C0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3K6C0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>特点：【距离再远伤害不会低于50】【手感偏中】【操控速度较高开镜较快】【弹夹子弹有7发】</p>
+        </div>
+        <div class="gun">
+            <h3>复合弓-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3L5G0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3L5G0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>特点：【距离再远伤害不会低于50】【手感超轻】【腰射拉满】【15米内击中任何部位必死】【距离过远有散布】</p>
+        </div>
+        <div class="gun">
+            <h3>复合弓-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB3M0S0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB3M0S0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>特点：【距离再远伤害不会低于50】【手感超轻】【主瞄准射击】【15米内击中任何部位必死】【远距离散布小】</p>
+        </div>
+    </div>
+
+    <div class="category" id="jiqiang">
+        <h2>机枪</h2>
+        <div class="reminder">
+            Blue肥子桑的轻机枪改枪码捏捏~~<br>
+            提醒：不同干员使用枪械不一样<br>
+            两个模式都能用，由于大战场全是满配枪，所以摸金较贵~<br>
+            有些武器并不适合一些距离比如有些步枪射速极高，远距离抖动过大只适合近距离【AS Val】<br>
+            近距离【0-30米】    中距离【30-120米】    远距离【120-200米】<br>
+            【高/快/强  ＞  中  ＞  低/弱/差】
+        </div>
+        <div class="gun">
+            <h3>QJB201轻机枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB32440CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB32440CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离中】【中距离强】【远距离强】             【开镜速度慢】                 【稳定性强】         【弹药量和瞄准镜可改】</p>
+        </div>
+        <div class="gun">
+            <h3>M250通用机枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB33L80CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB33L80CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】【中距离中】【远距离中低】          【开镜速度慢】              【稳定性中】     </p>
+        </div>
+        <div class="gun">
+            <h3>M249轻机枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB34J40CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB34J40CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离强】【中距离中低】【远距离差】          【开镜速度极快】           【稳定性中低】</p>
+        </div>
+        <div class="gun">
+            <h3>M249轻机枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB36CS0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB36CS0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离弱】【中距离中】【远距离弱】             【开镜速度极中】           【稳定性中中低】</p>
+        </div>
+        <div class="gun">
+            <h3>PKM通用机枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB376G0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB376G0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>距离强度【近距离弱】【中距离强】【远距离强】          【开镜速度极慢】             【稳定性超强】                   【推荐】</p>
+        </div>
+    </div>
+
+    <div class="category" id="xiandanqiang">
+        <h2>霰弹枪</h2>
+        <div class="reminder">
+            Blue肥子桑的霰弹枪改枪码捏~~<br>
+            提醒：不同干员使用枪械不一样<br>
+            两个模式都能用，由于大战场全是满配枪，所以摸金较贵~<br>
+            有些武器并不适合一些距离比如有些步枪射速极高，远距离抖动过大只适合近距离【AS Val】<br>
+            近距离【0-30米】    中距离【30-120米】    远距离【120-200米】<br>
+            【高/快/强  ＞  中  ＞  低/弱/差】
+        </div>
+        <div class="gun">
+            <h3>725双管霰弹枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB067K0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB067K0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>腰射散布小、弹药量少【容错低】【霰弹枪最远射程】</p>
+        </div>
+        <div class="gun">
+            <h3>M870霰弹枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB077G0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB077G0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>栓喷【推荐腰射或是按N切换据抢使用】</p>
+        </div>
+        <div class="gun">
+            <h3>S12K霰弹枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB07QO0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB07QO0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>【贴脸点射】【大弹鼓容错高】【不带全自动枪托是因为大幅度加腰射精准度】</p>
+        </div>
+        <div class="gun">
+            <h3>S12K霰弹枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB08A80CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB08A80CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>【全自动开火模式】【腰射散步较大，但影响不大！】</p>
+        </div>
+        <div class="gun">
+            <h3>M1014霰弹枪-全面战场</h3>
+            <div class="code-section">
+                <span class="code">6HB08SC0CO1NRM05UK6V1</span>
+                <button onclick="copyToClipboard('6HB08SC0CO1NRM05UK6V1')">复制</button>
+            </div>
+            <p>【比S12K击杀距离远一点点，弹药没有S12K多】【霰弹枪唯一一把不是很推荐的枪】</p>
+        </div>
+    </div>
+
+    <script>
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(function() {
+                alert('复制成功!');
+            }, function(err) {
+                alert('复制失败: ' + err);
+            });
+        }
+    </script>
+</body>
+</html>
